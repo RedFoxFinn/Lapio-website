@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 100px;
+    margin: 4px 30px 4px 4px;
+    position: relative;
+    display: inline-block;
+}
+
+.first-box-container {
+  background-color: red;
+}
+
+.second-box-container {
+  background-color: yellow;
+}
+
+.third-box-container {
+  background-color: green;
+}
